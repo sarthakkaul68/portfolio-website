@@ -1,0 +1,19 @@
+
+
+
+
+
+                    <div class="project shadow-large">
+                        <div class="project-image">
+                            <img src="images/project.jpg" />
+                        </div>
+                        <!-- End .project-image -->
+                        <div class="project-info">
+                            <h3>Movie App</h3>
+                            <p>
+                                Developed a movie app like an OTT platform 
+                                  using API keys hooks . Added various features 
+                                and made the user interface user friendly
+                            </p>
+                            <a href="https://thunderous-naiad-3cad76.netlify.app/">View Project</a>
+                        </div>
